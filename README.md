@@ -46,6 +46,7 @@ This project extends a static analysis tool, GuardDog, with an LLM extension to 
 Implemented a basic version of AES encryption in python that uses ECB mode.
 
 ### Optimisation Algorithms for Federated Learning [repo](https://github.com/lkwenn/Bachelor-s-Thesis-Project-M6)
+Explored and tested optimisation algorithsm for federated learning, a machine learning approach where models are trained collaboratively across multiple devices without sharing raw data. Compared five algorithms, FedAvg, FedAdam, FedYogi, AdaFedAdam, and FedAvg-M, on the CIFAR10 and Fashion-MNIST datasets under varying degrees of data heterogeneity. Evaluated each algorithm on both accuracy and fairness across clients, measuring performance for the worst-performing 30% of clients and the standard deviation across all clients. Found that FedAvg-M, which adds a momentum term and shared search direction, consistently achieved the best overall performance and fastest convergence. 
 
 ### Simulation of a Two-Stage Rocket Launch [repo](https://github.com/Sekuil/rocket-simulation)
 
