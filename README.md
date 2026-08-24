@@ -53,3 +53,4 @@ Bachelor's thesis that explored and tested optimisation algorithms for federated
 ### Autoencoder [repo](https://github.com/Sekuil/autoencoder)
 
 ### Yatzy game [repo](https://github.com/Sekuil/yatzy-gui)
+A graphical Yatzy game built in Python with Tkinter, supporting multiple players in a single window. The game handles dice rolling and re-rolling, automatic score calculation for all Yatzy categories, and a full scoreboard with bonus tracking per player.
