@@ -49,6 +49,7 @@ Implemented a basic version of AES encryption in python that uses ECB mode.
 Bachelor's thesis that explored and tested optimisation algorithms for federated learning, a machine learning approach where models are trained collaboratively across multiple devices without sharing raw data. The thesis compared five algorithms, FedAvg, FedAdam, FedYogi, AdaFedAdam, and FedAvg-M, on the CIFAR10 and Fashion-MNIST datasets under varying degrees of data heterogeneity. The algorithms were evaluated on both accuracy and fairness across clients. In conclusion the FedAvg-M algorithm, which adds a momentum term and shared search direction, consistently achieved the best overall performance and fastest convergence. 
 
 ### Simulation of a Two-Stage Rocket Launch [repo](https://github.com/Sekuil/rocket-simulation)
+A physics based simulation of a two-stage super heavy-lift rocket, integrating thrust, gravity, and atmospheric drag with a 4th-order Runge-Kutta method to model its ascent. The project includes trajectory and velocity visualizations, and a fuel optimization sweep to determine the optimal stage 1/stage 2 fuel combintations to achieve escape velocity. 
 
 ### Autoencoder [repo](https://github.com/Sekuil/autoencoder)
 A small deep learning project that explores autoencoders on synthetic trigonometric waveforms `A*sin(nx) + B*cos(nx)`. The project compares a standard unsupervised autoencoder against a variant with latent space supervision to test the autoencoders ability to reconstruct meaningful variables in the latent space.
