@@ -51,6 +51,7 @@ Bachelor's thesis that explored and tested optimisation algorithms for federated
 ### Simulation of a Two-Stage Rocket Launch [repo](https://github.com/Sekuil/rocket-simulation)
 
 ### Autoencoder [repo](https://github.com/Sekuil/autoencoder)
+A small deep learning project that explores autoencoders on synthetic trigonometric waveforms `A*sin(nx) + B*cos(nx)`. The project compares a standard unsupervised autoencoder against a variant with latent space supervision to test the autoencoders ability to reconstruct meaningful variables in the latent space.
 
 ### Yatzy game [repo](https://github.com/Sekuil/yatzy-gui)
 A graphical Yatzy game built in Python with Tkinter, supporting multiple players in a single window. The game handles dice rolling and re-rolling, automatic score calculation for all Yatzy categories, and a full scoreboard with bonus tracking per player.
