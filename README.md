@@ -1,13 +1,11 @@
 # 👤 About me
-<!--
-To add: 
-Education, interest areas, current projects
--->
+I'm a fifth year Engineering Physics student with a somewhat unorthodox Master's in Cybersecurity at the Royal Institute of Technology (KTH). My background combines advanced mathematics, data analysis, and machine learning with hands-on experience in network programming and systems security. 
+
+My bachelor's thesis explored optimisation algorithms for federated learning, comparing convergence and fairness across clients in a simulated environment, work that clutivated my interest in machine learning and privacy-preserving technologies. Right now, I am deepening my knowledge of neural networks and deep learning, aiming to understand how these methods can be applied to network security problems.
 
 ## ⚙️ Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,11 +16,8 @@ Education, interest areas, current projects
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23FFFFFF.svg?style=for-the-badge&logo=ollama&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%23257BD6.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- Logos are created with shields.io by URL in the following way, 
@@ -37,7 +32,7 @@ https://img.shields.io/badge/name-%23hexcolor.svg?style=for-the-badge&logo=logo&
 
 ## 🔨 Projects
 
-### Network system security environment [repo](https://github.com/Sekuil/networking-monorepo)
+<!--### Network system security environment [repo](https://github.com/Sekuil/networking-monorepo)-->
 
 ### Static Analysis for Supply Chain Attack Detection in Python Packages [repo](https://github.com/winkelmannfelix/DD2525-project)
 This project extends a static analysis tool, GuardDog, with an LLM extension to reduce false positives. GuardDog uses Semgrep rules to flag malicious content and code in PyPI packages but is known to produce false positives, which is problematic in automatic pipelines. The evaluation used a dataset of 10,000 confirmed malicious PyPI packages along with 15,000 benign PyPI packages. The goal was to analyse the static analysis rules used in GuardDog and determine to what extent an LLM would help.
